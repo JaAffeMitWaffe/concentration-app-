@@ -1,0 +1,20 @@
+PODS:
+  - iCarousel (1.8.3)
+  - lottie-ios (3.1.8)
+
+DEPENDENCIES:
+  - iCarousel
+  - lottie-ios
+
+SPEC REPOS:
+  trunk:
+    - iCarousel
+    - lottie-ios
+
+SPEC CHECKSUMS:
+  iCarousel: d782f635afac190c49bb8ee455882284cff8b85f
+  lottie-ios: 48fac6be217c76937e36e340e2d09cf7b10b7f5f
+
+PODFILE CHECKSUM: c5e1473180edbd7a5bbc13aae683dda146df828e
+
+COCOAPODS: 1.9.1

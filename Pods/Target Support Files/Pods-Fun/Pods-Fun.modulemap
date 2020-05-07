@@ -1,0 +1,6 @@
+framework module Pods_Fun {
+  umbrella header "Pods-Fun-umbrella.h"
+
+  export *
+  module * { export * }
+}
